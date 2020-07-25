@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gredient-dev-195127-authRole",
+            "UnauthRoleArn": "arn:aws:iam::826904598689:role/amplify-gredient-dev-195127-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::826904598689:role/amplify-gredient-dev-195127-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-gredient-dev-195127-deployment",
+            "UnauthRoleName": "amplify-gredient-dev-195127-unauthRole",
+            "StackName": "amplify-gredient-dev-195127",
+            "StackId": "arn:aws:cloudformation:us-west-2:826904598689:stack/amplify-gredient-dev-195127/ec620ac0-c0c5-11ea-add7-024332e0cf6e",
+            "AmplifyAppId": "d3hyaoxw0gznk"
+        },
+        "categories": {
+            "auth": {
+                "gredient3fe1a4e9": {}
+            }
+        }
+    }
+}
